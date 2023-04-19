@@ -8,4 +8,7 @@ About the dataset, initially they are (200,250,3) which can be resized to (256,2
 Next, we define the downsample for encoder where we'll use conv layer to capture and extract features and upsample for decoder layers which will use conv transpose layer which will bring back the image spatial dimension, we will implement Batch Normalization and drop out to try and boost our accuracy. 
 </br>
 I had previously tried this for 300 epochs, which could trace the hair and a little bit of skin, so I tried increasing epochs upto 700 which did trace a bit more than previous one.</br>
-Hence it's important to get more data, have variety, perform trial and error on architecture, increase the number of epochs. </br> performing these steps can kick up your accuracy. 
+Hence it's important to get more data, have variety, perform trial and error on architecture, increase the number of epochs. </br> performing these steps can kick up your accuracy. </BR>
+
+I WANTED TO UPLOAD MY ENTIRE FOLDER, WITH DATASETS, WELL, ITS TOO HUGE.</BR>
+HAVE FUN BUILDING THIS GUYS!
